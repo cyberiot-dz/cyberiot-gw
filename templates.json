@@ -1,7 +1,7 @@
 [
   {
     "type": 1,
-    "title": "Influxdb 时序数据库",
+    "title": "Influxdb时序数据库",
     "description": "High performance time series database",
     "name": "euedge-influxdb",
     "categories": ["database"],
@@ -46,8 +46,8 @@
   },
   {
     "type": 1,
-    "title": "Node-red业务编排",
-    "description": "Node-red图形化业务编排",
+    "title": "CyberIOT业务编排引擎",
+    "description": "图形化业务编排引擎",
     "name": "euedge-node-red",
     "categories": ["webserver"],
     "platform": "linux",
