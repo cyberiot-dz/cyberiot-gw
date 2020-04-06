@@ -1,8 +1,8 @@
 [
   {
     "type": 1,
-    "title": "Influxdb时序数据库",
-    "description": "High performance time series database",
+    "title": "Influxdb时序数据库2",
+    "description": "High performance time series database2",
     "name": "euedge-influxdb",
     "categories": ["database"],
     "platform": "linux",
