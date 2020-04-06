@@ -1,7 +1,7 @@
 [
   {
     "type": 1,
-    "title": "Influxdb时序数据库",
+    "title": "Influxdb时序数据库2",
     "description": "High performance time series database",
     "name": "euedge-influxdb",
     "categories": ["database"],
