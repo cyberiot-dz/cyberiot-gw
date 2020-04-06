@@ -1,12 +1,12 @@
 [
   {
     "type": 1,
-    "title": "Influxdb时序数据库",
-    "description": "High performance time series database",
+    "title": "Influxdb2时序数据库",
+    "description": "High 2performance time series database",
     "name": "euedge-influxdb",
     "categories": ["database"],
     "platform": "linux",
-    "logo": "http://192.168.31.245/dz/icon_influxdb.svg",
+    "logo": "http://192.168.31.245/icon_influxdb.svg",
     "image": "euedge/docker-euedge-influxdb:1.1.0",
     "hostname": "euedge-influxdb",
     "network": "cyberiot_euedge-network",
