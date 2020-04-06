@@ -6,7 +6,7 @@
     "name": "euedge-influxdb",
     "categories": ["database"],
     "platform": "linux",
-    "logo": "http://192.168.31.245/icon_influxdb.svg",
+    "logo": "https://raw.githubusercontent.com/cyberiot-dz/cyberiot-gw/blob/master/icon_influxdb.svg",
     "image": "euedge/docker-euedge-influxdb:1.1.0",
     "hostname": "euedge-influxdb",
     "network": "cyberiot_euedge-network",
